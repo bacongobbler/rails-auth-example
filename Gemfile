@@ -6,11 +6,14 @@ gem 'sqlite3'
 
 gem 'jquery-rails'
 
-# To use ActiveModel has_secure_password
+# to use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.0.0'
 
 # use Twitter Bootstrap for prettier output
 gem 'bootstrap-sass'
+
+# allows you to completely rename a Rails3 application
+gem 'rename'
 
 # Gems used only for assets and not required
 # in production environments by default.
